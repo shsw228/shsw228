@@ -32,14 +32,19 @@ Writing about Swift, SwiftUI, and iOS.
     <th align="left">Links</th>
   </tr>
   <tr>
-    <td>🔒 <b>Totteco</b><br><sub>Swift · 2026-07</sub></td>
-    <td>Frame-compositing camera app for iOS. Overlay your own cutout subjects onto live shots; auto-extract subjects from your photo library, with data kept on-device (SwiftData).</td>
-    <td><a href="https://totteco.pages.dev/">🌐 Website</a></td>
+    <td>🔒 <b>Life</b><br><sub>Python · 2026-07</sub></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Lua · 2026-07</sub></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>🔒 <b>Totteco</b><br><sub>Swift · 2026-07</sub></td>
+    <td>Frame-compositing camera app for iOS. Overlay your own cutout subjects onto live shots; auto-extract subjects from your photo library, with data kept on-device (SwiftData).</td>
+    <td><a href="https://totteco.pages.dev/">🌐 Website</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/shsw228/Re-v-O-mate"><b>Re-v-O-mate</b></a><br><sub>Swift · 2026-07</sub></td>
@@ -51,14 +56,9 @@ Writing about Swift, SwiftUI, and iOS.
     <td>A self-contained SwiftUI viewer for the current process's OSLogStore, with a dynamic category filter derived from your logs.</td>
     <td><a href="https://shsw228.github.io/OSLogViewer/">🌐 Website</a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/shsw228/PhotoScrubberKit"><b>PhotoScrubberKit</b></a><br><sub>Swift · 2026-06</sub></td>
-    <td>UIKit Swift Package that recreates the Apple Photos.app scrubber UI using only public APIs.</td>
-    <td><a href="https://shsw228.github.io/PhotoScrubberKit/">🌐 Website</a></td>
-  </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--07--13_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--07--20_%28JST%29-informational?style=flat)
 <!-- RECENT:END -->
 
 ### 🔗 Links
