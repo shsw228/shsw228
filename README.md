@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--07--11_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--08--01_%28JST%29-informational?style=flat)
 <!-- APPS:END -->
 
 ### 📝 Blog
