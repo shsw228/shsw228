@@ -32,12 +32,12 @@ Writing about Swift, SwiftUI, and iOS.
     <th align="left">Links</th>
   </tr>
   <tr>
-    <td>🔒 <b>Life</b><br><sub>Python · 2026-07</sub></td>
+    <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Lua · 2026-08</sub></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Lua · 2026-07</sub></td>
+    <td>🔒 <b>Life</b><br><sub>Python · 2026-07</sub></td>
     <td></td>
     <td></td>
   </tr>
@@ -58,7 +58,7 @@ Writing about Swift, SwiftUI, and iOS.
   </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--07--27_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--08--03_%28JST%29-informational?style=flat)
 <!-- RECENT:END -->
 
 ### 🔗 Links
