@@ -32,6 +32,16 @@ Writing about Swift, SwiftUI, and iOS.
     <th align="left">Links</th>
   </tr>
   <tr>
+    <td>🔒 <b>hydro-dots</b><br><sub>Swift · 2026-08</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shsw228/d-tweaks"><b>d-tweaks</b></a><br><sub>Rust · 2026-08</sub></td>
+    <td>Unofficial Chrome extension that rebuilds the PC web UI of dアニメストア: full-width grids, in-page playback, and nicovideo comments. Rust → WebAssembly.</td>
+    <td></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Lua · 2026-08</sub></td>
     <td></td>
     <td></td>
@@ -46,19 +56,9 @@ Writing about Swift, SwiftUI, and iOS.
     <td>Frame-compositing camera app for iOS. Overlay your own cutout subjects onto live shots; auto-extract subjects from your photo library, with data kept on-device (SwiftData).</td>
     <td><a href="https://totteco.pages.dev/">🌐 Website</a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/shsw228/Re-v-O-mate"><b>Re-v-O-mate</b></a><br><sub>Swift · 2026-07</sub></td>
-    <td>Native macOS configurator for the Rev-O-mate left-hand device. Built with Swift + IOKit (IOHIDManager); HID protocol reimplemented from the official OSS.</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/shsw228/OSLogViewer"><b>OSLogViewer</b></a><br><sub>Swift · 2026-07</sub></td>
-    <td>A self-contained SwiftUI viewer for the current process's OSLogStore, with a dynamic category filter derived from your logs.</td>
-    <td><a href="https://shsw228.github.io/OSLogViewer/">🌐 Website</a></td>
-  </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--08--03_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--08--10_%28JST%29-informational?style=flat)
 <!-- RECENT:END -->
 
 ### 🔗 Links
