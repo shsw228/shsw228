@@ -3,6 +3,11 @@
 <!-- APPS:START -->
 <table>
   <tr>
+    <td width="72" align="center"><a href="https://hydro-dots.pages.dev"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/a3/0b/24a30bc5-bba4-3d7d-5c7a-28c7f2fa398f/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg" width="60" height="60" alt="Hydro Dots"></a></td>
+    <td><b><a href="https://hydro-dots.pages.dev">Hydro Dots</a></b><br><sub>Hydro Dots is a water tracker that draws your day as a rising water level, one dot at a time.</sub></td>
+    <td align="right"><a href="https://apps.apple.com/us/app/hydro-dots/id6794577673?uo=4"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=flat&logo=apple&logoColor=white" alt="Download on the App Store"></a></td>
+  </tr>
+  <tr>
     <td width="72" align="center"><a href="https://totteco.pages.dev/en/"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ab/2d/a4ab2ded-d2d4-964d-c7e4-71bbb5075487/App-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/100x100bb.jpg" width="60" height="60" alt="Totteco"></a></td>
     <td><b><a href="https://totteco.pages.dev/en/">Totteco</a></b><br><sub>Anywhere with your favorite.</sub></td>
     <td align="right"><a href="https://apps.apple.com/us/app/totteco/id6767696374?uo=4"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=flat&logo=apple&logoColor=white" alt="Download on the App Store"></a></td>
@@ -14,7 +19,7 @@
   </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--08--01_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--08--24_%28JST%29-informational?style=flat)
 <!-- APPS:END -->
 
 ### 📝 Blog
