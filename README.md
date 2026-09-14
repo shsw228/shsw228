@@ -63,7 +63,7 @@ Writing about Swift, SwiftUI, and iOS.
   </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--09--07_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--09--14_%28JST%29-informational?style=flat)
 <!-- RECENT:END -->
 
 ### 🔗 Links
