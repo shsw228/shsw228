@@ -37,13 +37,13 @@ Writing about Swift, SwiftUI, and iOS.
     <th align="left">Links</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/shsw228/tinycast-extensions"><b>tinycast-extensions</b></a><br><sub>TypeScript · 2026-09</sub></td>
-    <td>Raycast-format extensions, distributable as a Tinycast registry</td>
+    <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Shell · 2026-09</sub></td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Lua · 2026-09</sub></td>
-    <td></td>
+    <td><a href="https://github.com/shsw228/tinycast-extensions"><b>tinycast-extensions</b></a><br><sub>TypeScript · 2026-09</sub></td>
+    <td>Raycast-format extensions, distributable as a Tinycast registry</td>
     <td></td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Writing about Swift, SwiftUI, and iOS.
   </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--09--21_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--09--28_%28JST%29-informational?style=flat)
 <!-- RECENT:END -->
 
 ### 🔗 Links
