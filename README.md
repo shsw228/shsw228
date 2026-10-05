@@ -37,7 +37,22 @@ Writing about Swift, SwiftUI, and iOS.
     <th align="left">Links</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Shell · 2026-09</sub></td>
+    <td><a href="https://github.com/shsw228/dotfiles"><b>dotfiles</b></a><br><sub>Shell · 2026-10</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/shsw228/d-tweaks"><b>d-tweaks</b></a><br><sub>HTML · 2026-09</sub></td>
+    <td>Unofficial Chrome extension that rebuilds the PC web UI of dアニメストア: full-width grids, in-page playback, and nicovideo comments. Rust → WebAssembly.</td>
+    <td><a href="https://chromewebstore.google.com/detail/boeaadajligfefejmldlaaldmbodffoa">🌐 Website</a></td>
+  </tr>
+  <tr>
+    <td>🔒 <b>Life</b><br><sub>Python · 2026-09</sub></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>🔒 <b>Recipes</b><br><sub>Cooklang · 2026-09</sub></td>
     <td></td>
     <td></td>
   </tr>
@@ -46,24 +61,9 @@ Writing about Swift, SwiftUI, and iOS.
     <td>Raycast-format extensions, distributable as a Tinycast registry</td>
     <td></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/shsw228/homebrew-tap"><b>homebrew-tap</b></a><br><sub>Ruby · 2026-09</sub></td>
-    <td>Homebrew tap for VPN-Mierukun</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/shsw228/shirube"><b>shirube</b></a><br><sub>Rust · 2026-08</sub></td>
-    <td>A terminal directory jumper that keeps your directories in named groups</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>🔒 <b>hydro-dots</b><br><sub>Swift · 2026-08</sub></td>
-    <td></td>
-    <td><a href="https://hydro-dots.pages.dev">🌐 Website</a></td>
-  </tr>
 </table>
 
-![Checked](https://img.shields.io/badge/Checked-2026--09--28_%28JST%29-informational?style=flat)
+![Checked](https://img.shields.io/badge/Checked-2026--10--05_%28JST%29-informational?style=flat)
 <!-- RECENT:END -->
 
 ### 🔗 Links
